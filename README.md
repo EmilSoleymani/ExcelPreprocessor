@@ -9,3 +9,7 @@ Execute `make build` to install required packages.
 ## Run
 
 Execute `make` to execute script.
+
+## Tests
+
+Ran this script on test data in `TestDataCustom.xlsx` and got the output in `test.xlsx`.
